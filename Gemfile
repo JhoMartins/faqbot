@@ -15,5 +15,5 @@ group :test do
   gem "rspec"
   gem "factory_girl", "~> 4.0"
   gem "ffaker"
-  gem 'database_cleaner'
+  gem 'database_cleaner'  
 end
